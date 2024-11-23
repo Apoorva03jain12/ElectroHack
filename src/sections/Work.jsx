@@ -2,7 +2,7 @@ function WorkSection() {
     return (
         <section className="py-16 bg-gray-100">
             <div className="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8">
-                <h2 className="text-3xl font-bold text-center text-gray-800">How ElectroHack Works</h2>
+                <h2 className="text-3xl font-bold text-center text-gray-800">How Smart Connect Works</h2>
                 <p className="mt-4 text-lg text-center text-gray-600">A streamlined process for connecting startups with investors.</p>
 
                 <div className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
