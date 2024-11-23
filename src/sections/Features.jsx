@@ -14,7 +14,7 @@ function FeaturesSection() {
             animate='visible'
             transition={{ duration: 0.5 }}
         className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-            <h2 className="text-3xl font-bold text-center text-gray-800">Features of ElectroHack</h2>
+            <h2 className="text-3xl font-bold text-center text-gray-800">Features of Smart Connect</h2>
             <p className="mt-4 text-lg text-center text-gray-600">Explore the powerful features that connect investors and startups.</p>
 
             <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 mt-10">

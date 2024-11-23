@@ -4,7 +4,7 @@ function AboutSection() {
             <div className="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8">
                 <h2 className="text-3xl font-bold text-center text-gray-800">About Us</h2>
                 <p className="mt-4 text-lg text-center text-gray-600">
-                    At ElectroHack, we are dedicated to bridging the gap between investors and innovative startups. Our platform is designed to facilitate meaningful connections that foster growth and success.
+                    At Smart Connect, we are dedicated to bridging the gap between investors and innovative startups. Our platform is designed to facilitate meaningful connections that foster growth and success.
                 </p>
 
                 <div className="mt-10 grid grid-cols-1 md:grid-cols-2 gap-8">

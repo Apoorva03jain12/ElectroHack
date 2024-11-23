@@ -3,7 +3,7 @@ function Footer() {
       <footer className="mt-auto w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto bg-gray-800 text-white">
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-6 mb-10">
               <div className="col-span-full hidden lg:col-span-1 lg:block">
-                  <a className="flex-none font-semibold text-xl text-white focus:outline-none focus:opacity-80" href="#" aria-label="Brand">ElectroHack</a>
+                  <a className="flex-none font-semibold text-xl text-white focus:outline-none focus:opacity-80" href="#" aria-label="Brand">Smart Connect</a>
               </div>
               <div>
                   <h4 className="text-xs font-semibold uppercase">Product</h4>
@@ -45,14 +45,11 @@ function Footer() {
               </div>
           </div>
 
-          {/* Bottom Section */}
           <div className="pt=5 mt=5 border-t border-gray=700">
               <div className="sm:flex sm:justify-between sm:items-center">
                   <div className="flex flex-wrap items-center gap-x=3">
                       <div className="space-x=4 text-sm">
-                          <a className="inline-flex gap-x=2 text-gray=400 hover:text-white focus:outline-none" href="#">Terms of Service</a>
-                          <a className="inline-flex gap-x=2 text-gray=400 hover:text-white focus:outline-none" href="#">Privacy Policy</a>
-                          <span>&copy; 2024 ElectroHack. All rights reserved.</span>
+                          <span>&copy; 2024 SmartConnect. All rights reserved.</span>
                       </div>
                   </div>
 
